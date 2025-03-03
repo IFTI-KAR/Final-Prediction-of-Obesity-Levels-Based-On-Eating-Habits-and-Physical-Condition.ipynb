@@ -41,7 +41,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## How to Run the Notebook
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/IFTI-KAR/Final-Prediction-of-Obesity-Levels-Based-On-Eating-Habits-and-Physical-Condition.ipynb/tree/main
    ```
 2. Open the Jupyter Notebook:
    ```bash
@@ -50,4 +50,13 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 3. Run the notebook step by step to preprocess data, train models, and analyze results.
 
 ## Results
-The trained model provides predictions on obesity levels based on input features. Model performance is evaluated using appropriate metrics, and Decision Tree is identified as the best-performing mo
+The trained model provides predictions on obesity levels based on input features. Model performance is evaluated using appropriate metrics, and Decision Tree is identified as the best-performing model based on precision and recall scores.
+
+## Future Improvements
+- Experimenting with deep learning techniques.
+- Incorporating additional health-related features.
+- Deploying the model as a web application.
+
+## License
+This project is open-source and available under the MIT License.
+
